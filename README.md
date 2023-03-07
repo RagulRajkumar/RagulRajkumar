@@ -16,32 +16,15 @@
 ##
 
 
- ## Languages..
+ ## Stacks..
  
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" /></code>
-</div>
-
-## FrameWorks / Libraries..
-
-<div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" /></code>
-</div>
-
-## UI/UX
-
-<div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" /></code>
-</div>
-[<img alt="ADOBE XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>]()
-
-
-
-## Tools
-<div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket" /></code>
@@ -51,7 +34,7 @@
 
 
 
-##
+## Statistics..
 
   [<img align="left" alt="Ragul Status" src="https://github-readme-stats.vercel.app/api?username=RagulRajkumar&theme=dark" />]()
   [<img align="left" alt="Ragul Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagulRajkumar&hide=html,css&theme=dark" />]()
