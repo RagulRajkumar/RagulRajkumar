@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently student
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Frontend and UI designing
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
 <!-- ##
 
