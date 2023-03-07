@@ -42,11 +42,10 @@
 ## Statistics..
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RagulRajkumar&show_icons=true&locale=en&layout=compact&hide=html,css&langs_count=8&theme=react&width=80&count_private=true" alt="riyazurrazak" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RagulRajkumar&show_icons=true&locale=en&theme=react&count_private=true" alt="riyazurrazak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RagulRajkumar&show_icons=true&locale=en&layout=compact&hide=html,css&langs_count=8&theme=react&width=80&count_private=true" alt="ragul" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RagulRajkumar&show_icons=true&locale=en&theme=react&count_private=true" alt="ragul" /></p>
+	<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RagulRajkumar&theme=react" alt="ragul" /></p>
 </div>
-  [<img align="left" alt="Ragul Status" src="https://github-readme-stats.vercel.app/api?username=RagulRajkumar&theme=dark" />]()
-  [<img align="left" alt="Ragul Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagulRajkumar&hide=html,css&theme=dark" />]()
   
   
  
