@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkrishnann&label=Profile%20views&color=0e75b6&style=flat" alt="ragul rajkumar" /> </p>
+
 <div align="center">
   <h1>I'm Ragul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -6,8 +8,6 @@
 - 🔭 I’m currently student
 - 🌱 I’m currently learning Frontend
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkrishnann&label=Profile%20views&color=0e75b6&style=flat" alt="ragul rajkumar" /> </p>
-
 <!-- ##
 
  <a align="center" href="https://www.linkedin.com/in/ragul-rajkumar-4b7246195"><img height="50" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
