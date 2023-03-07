@@ -10,8 +10,9 @@
 ##
 
   <a align="center" href="https://www.linkedin.com/in/ragul-rajkumar-4b7246195"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a align="center" href="https://www.instagram.com/ragul.r_3/"><img height="50" src="https://static.wixstatic.com/media/33091b_1a81d2bc9b674bb9856e648b2917a76f~mv2.gif"></a>
-      <a align="center" href="https://dribbble.com/RAGULR"><img height="50"  src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
+    <a align="center" href="https://www.instagram.com/ragul.r_3/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+      <a align="center" href="https://dribbble.com/RAGULR"><img src="https://skillicons.dev/icons?i=dribbble" /></a>
+      <a align="center" href="https://www.behance.net/ragulrajkumar"><img src="https://skillicons.dev/icons?i=behance" /></a>
     
 ##
 
