@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Frontend
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
 
-##
+<!-- ##
 
  <a align="center" href="https://www.linkedin.com/in/ragul-rajkumar-4b7246195"><img height="50" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
     <a align="center" href="https://www.instagram.com/ragul.r_3/"><img height="50" src="https://static.wixstatic.com/media/33091b_1a81d2bc9b674bb9856e648b2917a76f~mv2.gif"></a>
@@ -16,7 +16,7 @@
       
     
 ##
-
+ -->
 
  ## Stacks..
  
