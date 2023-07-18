@@ -5,8 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently student
-- 🌱 I’m currently learning Frontend and UI designing
+- 🔭 I’m currently a Developer
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
 <!-- ##
 
